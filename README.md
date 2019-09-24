@@ -18,7 +18,10 @@
  手机QSO  [Mumble/Pumble](https://github.com/huangqianqing/huangqianqing.github.io/tree/master/guide)  
  演示热点  [http://bi7jta.myq-see.com:8020/](http://bi7jta.myq-see.com:8020/)     
   
- MD380刷机 [http://www.aprspi.org/mmdvm/md380-flash-firmware/](http://www.aprspi.org/mmdvm/md380-flash-firmware/)   
-    
+ MD380刷机   
+ [教程图示](http://www.aprspi.org/mmdvm/md380-flash-firmware/)   
+ [最新刷机包](https://github.com/huangqianqing/huangqianqing.github.io/tree/master/guide)  
+ 
+   
 更多：  
 [www.aprspi.org](www.aprspi.org)   www.bi7jta.org  www.bi7jta.cn  www.mmdvm.io   
